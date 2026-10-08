@@ -1,0 +1,43 @@
+CONTENIDO ENTREGADO POR SENDEROS SAMAIPATA
+(Textos reales del cliente. Úsalos tal cual en tu página: tu trabajo es ESTRUCTURARLOS con HTML, no inventarlos.)
+
+NOMBRE DEL NEGOCIO
+Senderos Samaipata
+
+ESLOGAN
+Tours de naturaleza, historia y aventura en el corazón de los Valles Cruceños
+
+MENÚ DEL SITIO
+Inicio (index.html) · Tours (tours.html) · Galería (galeria.html) · Contacto (contacto.html)
+
+TÍTULO PRINCIPAL DE LA PORTADA
+Descubre Samaipata con guías locales
+
+TEXTO DE BIENVENIDA
+Somos una familia samaipateña que desde 2014 acompaña a viajeros de todo el mundo por los senderos que conocemos
+desde niños. Grupos pequeños, guías certificados y precios justos que se quedan en la comunidad.
+
+BOTÓN DE ACCIÓN
+Ver todos los tours (enlace a tours.html)
+
+SECCIÓN: TOURS DESTACADOS
+1. Fuerte de Samaipata
+   Recorre el sitio arqueológico declarado Patrimonio de la Humanidad por la UNESCO en 1998 y descubre la roca
+   tallada más grande del mundo. Duración: medio día. Desde Bs 180 por persona.
+2. Bosque de helechos gigantes
+   Caminata por el Parque Nacional Amboró entre helechos de más de 10 metros de altura, con almuerzo campestre.
+   Duración: día completo. Desde Bs 250 por persona.
+3. Cascadas de Las Cuevas
+   Tres cascadas de agua cristalina a 20 minutos del pueblo, ideales para ir en familia. Duración: medio día.
+   Desde Bs 120 por persona.
+
+SECCIÓN: ¿POR QUÉ ELEGIRNOS?
+- Guías locales certificados por el Servicio Departamental de Turismo
+- Grupos de máximo 8 personas
+- Transporte y seguro incluidos en todos los tours
+- 10 % de cada reserva apoya a la reforestación del Amboró
+
+PIE DE PÁGINA
+Senderos Samaipata · Calle Bolívar 45, Samaipata, Santa Cruz, Bolivia
+WhatsApp: +591 700 00000 · Correo: reservas@senderossamaipata.bo
+© 2026 Senderos Samaipata. Sitio desarrollado por: [TU NOMBRE] — Diseño Web I, UPDS
